@@ -327,7 +327,7 @@ if(isset($_COOKIE['user_id']) && $_COOKIE['user_id'] != ''){
 	
 	<footer class="footer-bottom">
 		<div class="footer-right">
-			&copy; 2019 MiiStore. All Rights Reserved | Design by Eirene KW
+			&copy; 2026 MiiStore. All Rights Reserved | Design by Muhammad Dzulfikar
 		</div>
 		<div class="clearfix"></div>
 	</footer>

@@ -455,7 +455,7 @@ ob_start();
 	
 	<footer class="footer-bottom">
 		<div class="footer-right">
-			&copy; 2019 MiiStore. All Rights Reserved | Design by Victory Webstore
+			&copy; 2026 MiiStore. All Rights Reserved | Design by Muhammad Dzulfikar
 		</div>
 		<div class="clearfix"></div>
 	</footer>
